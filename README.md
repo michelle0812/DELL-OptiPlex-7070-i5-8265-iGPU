@@ -14,7 +14,7 @@
     <td>iGPU</td><td>Intel UHD Graphics 620 1536MB</td>
   </tr>
   <tr>  
-    <td>固態硬碟</td><td>ST1000LM 1000GB</td>
+    <td>硬碟</td><td>ST1000LM 1000GB</td>
   </tr>
   <tr>
     <td>系統</td><td>macOS Monterey 12.6.1 + OpenCore 0.8.6</td>
